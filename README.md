@@ -52,6 +52,34 @@ Se verificó la coherencia entre ventas reportadas y ventas calculadas
 
 ## EDA (Exploratory Data Analysis)
 
+Se realizó un análisis exploratorio de los datos (EDA) con el objetivo de identificar insights de comportamiento en las ventas, ocupación y rendimiento operativo de los cines.
+
+### Análisis temporal
+- Se identificaron patrones de estacionalidad en las ventas por mes y por día de la semana.
+- Se observó que ciertos meses presentan mayor volumen de ventas, indicando posibles periodos de alta demanda.
+- El análisis diario mostró variaciones significativas en el comportamiento de ventas a lo largo del tiempo.
+
+### Análisis de desempeño
+- Se analizaron los ingresos por cine, identificando diferencias significativas entre complejos.
+- Se evaluó el rendimiento de las películas en función de sus ingresos totales.
+
+### Ocupación de salas
+- Se estudió la variación de la ocupación promedio por mes.
+- Se identificaron cambios en la eficiencia de uso de las salas a lo largo del periodo analizado.
+
+### Relación entre variables
+- Se analizó la relación entre el precio del ticket y las ventas totales.
+- Se exploró la distribución de ventas por rangos de precio.
+
+### Hallazgos importantes
+- Se detectaron diferencias significativas en el rendimiento entre cines y películas.
+- Se identificaron patrones de demanda relacionados con el tiempo (meses y días).
+- Se observa una variación en las ventas promedio según rangos de precio del ticket. Sin embargo, esta relación no implica causalidad directa, ya que puede estar influenciada por otros factores como la demanda de películas o el tamaño del cine.
+
+---
+
+El EDA permitió establecer una base sólida para la construcción del dashboard en Power BI.
+
 ---
 
 ## Herramientas utilizadas
@@ -66,7 +94,7 @@ Se verificó la coherencia entre ventas reportadas y ventas calculadas
 - Data Cleaning ✔
 - Feature Engineering ✔
 - Data Validation ✔
-- EDA 🔄 en progreso
+- EDA en progreso ✔
 - Power BI Dashboard ⏳ pendiente
 
 ## Dataset
