@@ -22,5 +22,5 @@ Desarrollar un dashboard interactivo en Power BI que permita analizar el desempe
 
 ## Dataset
 
-Fuente: Kaggle - Cinema
+Fuente: Kaggle - Cinema Tickets
 
