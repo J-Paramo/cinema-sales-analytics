@@ -82,6 +82,24 @@ El EDA permitió establecer una base sólida para la construcción del dashboard
 
 ---
 
+## Power BI Dashboard
+
+Se desarrolló un dashboard interactivo en Power BI para la visualización y análisis del desempeño de los cines.
+
+KPIs principales
+- Ventas totales
+- Unidades vendidas
+- Venta promedio
+- Ventas por día
+Visualizaciones incluidas
+- Ventas por día (tendencia temporal)
+- Ventas por cine (comparativo de desempeño)
+- Ventas por película (ranking de rendimiento)
+  
+### Objetivo del dashboard
+
+Permitir un análisis rápido del comportamiento de ventas, identificar patrones de demanda y comparar el desempeño entre cines y películas para apoyar la toma de decisiones.
+
 ## Herramientas utilizadas
 
 - Python (Pandas, NumPy, Seaborn, Pyarrow, Matplotlib)
@@ -95,7 +113,7 @@ El EDA permitió establecer una base sólida para la construcción del dashboard
 - Feature Engineering ✔
 - Data Validation ✔
 - EDA en progreso ✔
-- Power BI Dashboard ⏳ pendiente
+- Power BI Dashboard en procesos
 
 ## Dataset
 
