@@ -15,13 +15,21 @@ Se utilizan técnicas de limpieza de datos, análisis exploratorio (EDA) y visua
 
 ## Objetivo
 
-Desarrollar un dashboard interactivo en Power BI que permita:
+Desarrollar un proyecto de análisis de datos e inteligencia de negocios utilizando Python y Power BI, con el objetivo de transformar datos de ventas de cines en insights accionables.
+
+El proyecto incluye un proceso end-to-end de análisis:
+
+- Limpieza y transformación de datos con Python
+- Análisis exploratorio (EDA) para identificar patrones de comportamiento
+- Visualización y monitoreo de KPIs en un dashboard de Power BI
+
+El propósito es:
 
 - Analizar ingresos por cine y película
 - Identificar patrones de ventas por día y mes
 - Evaluar la ocupación de salas
-- Detectar horarios y periodos de mayor demanda
-- Optimizar decisiones operativas basadas en datos
+  Detectar horarios y periodos de mayor demanda
+- Optimizar la toma de decisiones operativas basadas en datos
 
 ---
 
