@@ -106,10 +106,21 @@ Se desarrolló un dashboard interactivo en Power BI para monitorear el desempeñ
 
 Permitir identificar patrones de demanda, comparar el desempeño de complejos y películas, y monitorear indicadores clave del negocio mediante una interfaz interactiva.
 
+## Vista del Dashboard
+
+### Vista estática
+![Dashboard](images/dashboard.png)
+
+### Demo interactiva
+Este GIF muestra la interacción del dashboard (filtros, navegación y análisis dinámico):
+
+![Demo del Dashboard](images/dashboard_video.gif)
+
 ## Herramientas utilizadas
 
 - Python (Pandas, NumPy, Seaborn, Pyarrow, Matplotlib)
 - Jupyter Notebook
+- Power BI
 
 ---
 
@@ -118,7 +129,6 @@ Permitir identificar patrones de demanda, comparar el desempeño de complejos y 
 - Data Cleaning ✔
 - Feature Engineering ✔
 - Data Validation ✔
-- EDA en progreso ✔
 - Power BI Dashboard ✔
 
 ## Dataset
