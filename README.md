@@ -27,8 +27,7 @@ El propósito es:
 
 - Analizar ingresos por cine y película
 - Identificar patrones de ventas por día y mes
-- Evaluar la ocupación de salas
-  Detectar horarios y periodos de mayor demanda
+- Detectar horarios y periodos de mayor demanda
 - Optimizar la toma de decisiones operativas basadas en datos
 
 ---
@@ -84,29 +83,28 @@ Se realizó un análisis exploratorio de los datos (EDA) con el objetivo de iden
 - Se identificaron patrones de demanda relacionados con el tiempo (meses y días).
 - Se observa una variación en las ventas promedio según rangos de precio del ticket. Sin embargo, esta relación no implica causalidad directa, ya que puede estar influenciada por otros factores como la demanda de películas o el tamaño del cine.
 
----
-
 El EDA permitió establecer una base sólida para la construcción del dashboard en Power BI.
 
 ---
-
 ## Power BI Dashboard
 
-Se desarrolló un dashboard interactivo en Power BI para la visualización y análisis del desempeño de los cines.
+Se desarrolló un dashboard interactivo en Power BI para monitorear el desempeño de los complejos cinematográficos y facilitar la toma de decisiones basada en datos.
 
-KPIs principales
+### KPIs principales
 - Ventas totales
-- Unidades vendidas
+- Tickets vendidos
 - Venta promedio
 - Ventas por día
-Visualizaciones incluidas
-- Ventas por día (tendencia temporal)
-- Ventas por cine (comparativo de desempeño)
-- Ventas por película (ranking de rendimiento)
-  
+
+### Visualizaciones
+- Tendencia de ventas por día
+- Comparativo de ventas por cine e ingresos
+- Comparativo de películas por ingresos
+- Ocupación de salas por periodo
+
 ### Objetivo del dashboard
 
-Permitir un análisis rápido del comportamiento de ventas, identificar patrones de demanda y comparar el desempeño entre cines y películas para apoyar la toma de decisiones.
+Permitir identificar patrones de demanda, comparar el desempeño de complejos y películas, y monitorear indicadores clave del negocio mediante una interfaz interactiva.
 
 ## Herramientas utilizadas
 
@@ -121,7 +119,7 @@ Permitir un análisis rápido del comportamiento de ventas, identificar patrones
 - Feature Engineering ✔
 - Data Validation ✔
 - EDA en progreso ✔
-- Power BI Dashboard en procesos
+- Power BI Dashboard ✔
 
 ## Dataset
 
